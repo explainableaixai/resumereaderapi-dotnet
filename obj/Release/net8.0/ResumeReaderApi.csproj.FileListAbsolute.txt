@@ -1,0 +1,12 @@
+/root/seo/wave3/resumereaderapi/dotnet/bin/Release/net8.0/ResumeReaderApi.deps.json
+/root/seo/wave3/resumereaderapi/dotnet/bin/Release/net8.0/ResumeReaderApi.dll
+/root/seo/wave3/resumereaderapi/dotnet/bin/Release/net8.0/ResumeReaderApi.pdb
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ResumeReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ResumeReaderApi.AssemblyInfoInputs.cache
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ResumeReaderApi.AssemblyInfo.cs
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ResumeReaderApi.csproj.CoreCompileInputs.cache
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ResumeReaderApi.sourcelink.json
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ResumeReaderApi.dll
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/refint/ResumeReaderApi.dll
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ResumeReaderApi.pdb
+/root/seo/wave3/resumereaderapi/dotnet/obj/Release/net8.0/ref/ResumeReaderApi.dll

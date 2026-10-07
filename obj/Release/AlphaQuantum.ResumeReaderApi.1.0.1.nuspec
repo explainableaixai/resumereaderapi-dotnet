@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AlphaQuantum.ResumeReaderApi</id>
+    <version>1.0.1</version>
+    <authors>Alpha Quantum</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://www.resumereaderapi.com/</projectUrl>
+    <description>.NET client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations.</description>
+    <tags>resume-parser cv-parser recruiting hr-tech ats skill-normalization job-title-normalization</tags>
+    <repository type="git" url="https://github.com/explainableaixai/resumereaderapi-dotnet" commit="15bcbf254e4bdd7bf049c589afdc1984fd6a5639" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/root/seo/wave3/resumereaderapi/dotnet/bin/Release/net8.0/ResumeReaderApi.dll" target="lib/net8.0/ResumeReaderApi.dll" />
+    <file src="/root/seo/wave3/resumereaderapi/dotnet/README.md" target="/README.md" />
+    <file src="/root/seo/wave3/resumereaderapi/dotnet/LICENSE" target="/LICENSE" />
+  </files>
+</package>
