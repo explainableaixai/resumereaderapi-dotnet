@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>AlphaQuantum.ResumeReaderApi</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Alpha Quantum</Authors>
+    <Description>.NET client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations.</Description>
+    <PackageProjectUrl>https://www.resumereaderapi.com</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/explainableaixai/resumereaderapi-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>resume-parser;cv-parser;recruiting;hr-tech;ats;skill-normalization;job-title-normalization</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="tests/**;examples/**" />
+    <None Remove="tests/**;examples/**" />
+    <None Include="README.md" Pack="true" PackagePath="/" />
+    <None Include="LICENSE" Pack="true" PackagePath="/" />
+  </ItemGroup>
+  <ItemGroup><InternalsVisibleTo Include="Tests" /></ItemGroup>
+</Project>
